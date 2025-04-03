@@ -4,8 +4,7 @@ numpy
 seaborn
 matplotlib
 requests
-datetime
 plotly
-sklearn
+scikit-learn
 folium
 streamlit_folium
