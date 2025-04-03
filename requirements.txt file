@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+requests
+datetime
+plotly
+sklearn
+folium
+streamlit_folium
